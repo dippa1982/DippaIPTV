@@ -1,0 +1,393 @@
+#EXTM3U
+
+#EXTINF:0,[COLOR yellow]*---Any Buffer Issues Are Cause Server At Max---*[/COLOR]
+#EXTINF:0,[COLOR green]*---Movies---*[/COLOR]
+
+#EXTINF:-1,Sky Movies Family
+http://iptv80.ddns.net:9070/live/karimos/skype88/835.m3u8 
+#EXTINF:0,Sky Movies Select
+http://iptv80.ddns.net:9070/live/karimos/skype88/841.m3u8
+#EXTINF:0,Sky Movies SciFi Horror
+http://iptv80.ddns.net:9070/live/karimos/skype88/834.m3u8
+#EXTINF:0,Sky Movies Premiere
+http://star7arab-iptv.sytes.net:8000/live/WSS2/support@wsswebhost.com/71.m3u8|User-Agent: Mozilla/5.0 Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:43.0) Gecko/20100101 Firefox/43.0
+#EXTINF:-1,SKY Movies Action
+http://iptv80.ddns.net:9070/live/karimos/skype88/833.m3u8
+#EXTINF:0,Sky Movies Superheroes
+http://iptv80.ddns.net:9070/live/karimos/skype88/838.m3u8   
+#EXTINF:-1,Sky Movies Thriller
+http://iptv80.ddns.net:9070/live/karimos/skype88/839.m3u8
+#EXTINF:0,Sky Movies Comedy
+http://star7arab-iptv.sytes.net:8000/live/WSS2/support@wsswebhost.com/66.m3u8|User-Agent: 
+Mozilla/5.0 Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:43.0) Gecko/20100101 Firefox/43.0
+#EXTINF:-1,Sky Movies Showcase
+http://iptv80.ddns.net:9070/live/karimos/skype88/840.m3u8
+#EXTINF:-1,Sky Movies Disney
+http://iptv80.ddns.net:9070/live/karimos/skype88/836.m3u8
+#EXTINF:-1,The Film Zone
+http://200.76.77.237/LIVE/H01/CANAL440/PROFILE05.m3u8?playkodi=%2F.ts
+#EXTINF:-1,TNT HD
+http://200.76.77.237/LIVE/H01/CANAL435/PROFILE05.m3u8?playkodi=%2F.ts
+#EXTINF:-1,Fox Action HD
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE05.m3u8?playkodi=%2F.ts
+#EXTINF:-1,Fox Movies
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE05.m3u8?playkodi=%2F.ts 
+#EXTINF:0,True Movies
+http://top-iptv.zapto.org:8000/live/walid/walid/563.m3u8
+#EXTINF:0,True Movies 2
+http://iptv-volkan.ddns.net:8000/live/Martin/Martin/839.m3u8|User-Agent: Mozilla/5.0 Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:43.0) Gecko/20100101 Firefox/43.0
+#EXTINF:-1,Cinemax 5 Star
+http://62.210.248.96:11000/live/knuschit@gmail.com_us/knuschit@gmail.com-us/4600.ts
+#EXTINF:-1,Hallmark
+http://62.210.248.96:11000/live/knuschit@gmail.com_us/knuschit@gmail.com-us/4597.ts
+#EXTINF:-1,Cinemax
+http://62.210.248.96:11000/live/knuschit@gmail.com_us/knuschit@gmail.com-us/4367.ts
+#EXTINF:-1,Starz Encore
+http://62.210.248.96:11000/live/knuschit@gmail.com_us/knuschit@gmail.com-us/4262.ts
+#EXTINF:-1,Starz
+http://62.210.248.96:11000/live/knuschit@gmail.com_us/knuschit@gmail.com-us/4265.ts 
+
+#EXTINF:0,[COLOR green]*---EN TV---*[/COLOR]
+
+#EXTINF:0,Sky Atlantic
+http://star7arab-iptv.sytes.net:8000/live/WSS2/support@wsswebhost.com/74.m3u8|User-Agent: 
+Mozilla/5.0 Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:43.0) Gecko/20100101 Firefox/43.0
+#EXTINF:0,tru tv
+http://llnw.live.simplestream.com/coder5/coder.channels.channel2/hls/4/playlist.m3u8
+#EXTINF:0,The Zombie Channel
+http://iphone-streaming.ustream.tv/ustreamVideo/15905949/streams/live/playlist.m3u8
+#EXTINF:0,The UFO Channel
+http://veetle.com/index.php/hls/streamMbrFast/5570083766031_/stream.m3u8
+#EXTINF:0,NASA TV
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+#EXTINF:0,Bloomberg TV
+http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M18K.m3u8
+#EXTINF:0, TWiT Live
+http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
+#EXTINF:0, London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+#EXTINF:0, QVC 1
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi5/1/prog_index.m3u8
+#EXTINF:0, QVC 2
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/1/prog_index.m3u8
+#EXTINF:0, QVC 3
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi6/1/prog_index.m3u8
+#EXTINF:0, QVC 4
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi8/3/prog_index.m3u8
+#EXTINF:0,Ginx
+http://204.107.26.252:1935/live/796.high.stream/PAZ.m3u8
+#EXTINF:-1,BBC
+http://laganvpn12.plus.com:9981/stream/channelid/1
+#EXTINF:-1,BBC1 HD
+http://62.65.140.217:80/session/4594b15a-be38-11e5-ba61-005056bc49ac/nvnv5a/2/4017/index.m3u8?token=7aa487f2c3697b733d1a167682fe52a2_1453244859_1453244859&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1,BBC2 HD
+http://62.65.140.154:80/session/460b99be-be38-11e5-acac-005056bc06d1/nvnv5a/2/4012/index.m3u8?token=9d47ff1ceb1e7c74f93749efce4b9399_1453244860_1453244860&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1,Cbeebies
+http://laganvpn12.plus.com:9981/stream/channelid/3
+#EXTINF:-1,Cbbc
+http://laganvpn12.plus.com:9981/stream/channelid/6
+#EXTINF:-1,BBC1 NI
+http://laganvpn12.plus.com:9981/stream/channelid/7
+#EXTINF:-1,UTV+1
+http://laganvpn12.plus.com:9981/stream/channelid/11
+#EXTINF:-1,UTV
+http://laganvpn12.plus.com:9981/stream/channelid/12
+#EXTINF:-1,Channel 5
+http://laganvpn12.plus.com:9981/stream/channelid/13
+#EXTINF:-1,Channel 4+1
+http://laganvpn12.plus.com:9981/stream/channelid/14
+#EXTINF:-1,More4
+http://laganvpn12.plus.com:9981/stream/channelid/15
+#EXTINF:-1,Channel 4
+http://laganvpn12.plus.com:9981/stream/channelid/16
+#EXTINF:-1,E4
+http://laganvpn12.plus.com:9981/stream/channelid/17
+#EXTINF:-1,Film4
+http://laganvpn12.plus.com:9981/stream/channelid/18
+#EXTINF:-1,ITV 2
+http://laganvpn12.plus.com:9981/stream/channelid/19
+#EXTINF:-1,RT
+http://laganvpn12.plus.com:9981/stream/channelid/20
+#EXTINF:-1,Dave ja vu
+http://laganvpn12.plus.com:9981/stream/channelid/22
+#EXTINF:-1,Yesterday
+http://laganvpn12.plus.com:9981/stream/channelid/24
+#EXTINF:-1,ITV 4
+http://laganvpn12.plus.com:9981/stream/channelid/25
+#EXTINF:-1,Ideal World
+http://laganvpn12.plus.com:9981/stream/channelid/27
+#EXTINF:-1,4Music
+http://laganvpn12.plus.com:9981/stream/channelid/29
+#EXTINF:-1,QVC Beauty
+http://laganvpn12.plus.com:9981/stream/channelid/32
+#EXTINF:-1,4/7
+http://laganvpn12.plus.com:9981/stream/channelid/35
+#EXTINF:-1,Travel Ch.
+http://laganvpn12.plus.com:9981/stream/channelid/36
+#EXTINF:-1,Spike
+http://laganvpn12.plus.com:9981/stream/channelid/37
+#EXTINF:-1,CBS Action
+http://laganvpn12.plus.com:9981/stream/channelid/38
+#EXTINF:-1,Quest+1
+http://laganvpn12.plus.com:9981/stream/channelid/39
+#EXTINF:-1,Citv
+http://laganvpn12.plus.com:9981/stream/channelid/46
+#EXTINF:-1,CBS Drama
+http://laganvpn12.plus.com:9981/stream/channelid/111
+#EXTINF:0,RT Documentary
+http://rt-a.akamaihd.net/ch_05@325609/master.m3u8
+#EXTINF:0,RT
+http://rt-a.akamaihd.net/ch_06@325610/master.m3u8
+#EXTINF:-1,Poker Central
+http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
+#EXTINF:0,Sky Arts1
+http://iptv-volkan.ddns.net:8000/live/Martin/Martin/325.m3u8|User-Agent: Mozilla/5.0 Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:43.0) Gecko/20100101 Firefox/43.0
+#EXTINF:0,Comedy Central
+http://78.56.221.9:7059/comedy
+#EXTINF:-1,Film4
+http://62.65.140.212:80/session/50583a44-be38-11e5-8642-005056bc06d1/nvnv5a/2/4023/index.m3u8?token=191e0cc7faf24ae1e42259172b2b3055_1453244877_1453244877&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1,H2
+http://62.210.248.96:11000/live/knuschit@gmail.com_us/knuschit@gmail.com-us/4596.ts
+#EXTINF:-1,HBO ZONE
+http://62.210.248.96:11000/live/knuschit@gmail.com_us/knuschit@gmail.com-us/4274.ts
+#EXTINF:-1,E!
+http://62.210.248.96:11000/live/knuschit@gmail.com_us/knuschit@gmail.com-us/3959.ts
+
+#EXTINF:0,[COLOR green]*---News---*[/COLOR]
+
+#EXTINF:-1,EuroNews
+http://62.65.140.217:80/session/4dc5878c-be38-11e5-9cb0-005056bc06d1/nvnv5a/1/104903/index.m3u8?token=c6b7cbe665475a20263dfb7b074ed9a7_1453244873_1453244873&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:0,ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+#EXTINF:0,CNN International
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD177_W_150.sdp/media_7419.m3u8
+#EXTINF:-1,BBC Parliament
+http://laganvpn12.plus.com:9981/stream/channelid/8
+#EXTINF:-1,BBC News
+http://laganvpn12.plus.com:9981/stream/channelid/9
+
+#EXTINF:-1,[COLOR green]--- DOCUMENTARIES ---[/COLOR]
+http://0.0.0.0:1234
+ 
+#EXTINF:-1, National Geo
+http://185.75.56.97:4022/udp/239.100.5.111:60995
+#EXTINF:Genesis Science Network
+rtmp://live.cdn01.net/LiveChannels?channel_id=14019&source=othersites playpath=stream_14019 swfUrl=http://embed.cdn01.net/player.swf?v14 live=1 pageUrl=http://embed.cdn01.net/player.php?width=580&height=326&skinColor=000000&autoStart=false&playlistPos=inside&playlistSize=350&tvButtonID=lightcast&id=14019&type=live
+#EXTINF:-1,RT Documentary
+http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
+#EXTINF:-1,UFO Channel
+http://veetle.com/index.php/hls/streamMbrfast/5570083766031_/stream.m3u8
+#EXTINF:-1,World Fashion Channel
+http://btv-net.mediacdn.ru/TVB7/wfhdeu/playlist.m3u8
+#EXTINF:-1,NASA TV
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,At The Drive-In
+http://veetle.com/index.php/hls/streamMbrfast/5408d7749bc24_/stream.m3u8
+ 
+#EXTINF:0,[COLOR green]*---Kids---*[/COLOR]
+
+#EXTINF:-1,Cartoon network
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
+#EXTINF:0,Nicktoons
+http://iptv-volkan.ddns.net:8000/live/Martin/Martin/620.m3u8|User-Agent: Mozilla/5.0 Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:43.0) Gecko/20100101 Firefox/43.0
+#EXTINF:0,Disney XD
+http://iptv-volkan.ddns.net:8000/live/Martin/Martin/440.m3u8|User-Agent: Mozilla/5.0 Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:43.0) Gecko/20100101 Firefox/43.0
+#EXTINF:0,Cartoon Network
+http://iptv-volkan.ddns.net:8000/live/Martin/Martin/871.m3u8|User-Agent: Mozilla/5.0 Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:43.0) Gecko/20100101 Firefox/43.0
+#EXTINF:0,Smile of a Child
+http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
+#EXTINF:-1,Nick HD
+http://62.210.248.96:11000/live/knuschit@gmail.com_us/knuschit@gmail.com-us/4592.ts
+#EXTINF:-1,Boomerang
+http://62.210.248.96:11000/live/knuschit@gmail.com_us/knuschit@gmail.com-us/4508.ts
+
+#EXTINF:0,[COLOR green]*---Music---*[/COLOR]
+
+#EXTINF:-1,MTV
+http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1,MTV Dance
+http://digiteletv.iptvpremium.eu:8000/live/demo070116/WTzGMNfGvw/28.m3u8
+#EXTINF:-1,MTV Hits
+http://digiteletv.iptvpremium.eu:8000/live/demo070116/WTzGMNfGvw/29.m3u8
+#EXTINF:-1,MTV Live
+http://digiteletv.iptvpremium.eu:8000/live/demo070116/WTzGMNfGvw/94.m3u8
+#EXTINF:-1,MTV Rocks
+http://digiteletv.iptvpremium.eu:8000/live/demo070116/WTzGMNfGvw/30.m3u8
+#EXTINF:0,Clubbing TV
+http://204.107.26.252:1935/live/691.high.stream/PAZ.m3u8
+#EXTINF:0, Vevo Music TV
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+#EXTINF:0, Vevo ROCK TV
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+#EXTINF:0, TV MIAMI MUSIC
+http://74.208.152.93/music/stream3/stream.m3u8
+#EXTINF:-1,Heart TV (UK)
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?
+sd=10&rebase=on
+#EXTINF:-1,Kiss TV
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live
+#EXTINF:-1,MTV Dance
+http://217.147.40.118:8080/udp/233.97.20.154:1234
+#EXTINF:-1,MTV Hits
+http://200.76.77.237/LIVE/H01/CANAL727/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1,MTV Live
+http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1,MTV Live HD (1080p)
+http://200.76.77.237/LIVE/H01/CANAL701/PROFILE05.m3u8?playkodi=%2F.ts
+#EXTINF:-1,MTV Rocks
+http://217.147.40.118:8080/udp/233.97.20.155:1234
+#EXTINF:0,Eska Best TV
+http://slynet.8nio.com/1/eskabesttvhd_sly.m3u8
+#EXTINF:0,Eska Party TV
+http://slynet.8nio.com/1/eskapartytvhd_sly.m3u8
+#EXTINF:0,Eska Rock TV
+http://slynet.8nio.com/1/eskarocktvhd_sly.m3u8
+#EXTINF:-1,Vevo1 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+#EXTINF:-1,Vevo2 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+#EXTINF:-1,Vevo3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+#EXTINF:-1,MTV HD DE
+http://62.65.140.213:80/session/5ac4eb58-be38-11e5-bc1b-005056bc1a52/nvnv5a/1/1033/index.m3u8?token=1521543d89b141d0809e8743e35254ea_1453244894_1453244894&p=127|X-Forwarded-For=85.195.192.0
+
+#EXTINF:0,[COLOR green]*---Sport ENG---*[/COLOR]
+
+#EXTINF:-1, Sky Sport 1 HD [COLOR green]*---Link Broken---*[/COLOR]
+http://iptv.is-very-nice.org:9705/live/iptv-store.com/iptv-store.com/37.ts
+#EXTINF:0,Sky Sports 2 HD
+http://iptv80.ddns.net:9070/live/karimos/skype88/847.m3u8
+#EXTINF:0,Sky Sports 3 HD
+http://iptv80.ddns.net:9070/live/karimos/skype88/848.m3u8
+#EXTINF:-1,Sky Sports 4 HD
+http://iptv80.ddns.net:9070/live/karimos/skype88/849.m3u8
+#EXTINF:0,Sky Sports 5 HD
+http://iptv80.ddns.net:9070/live/karimos/skype88/850.m3u8
+#EXTINF:0,Sky Sports News
+http://star7arab-iptv.sytes.net:8000/live/WSS2/support@wsswebhost.com/118.m3u8|User-Agent: 
+Mozilla/5.0 Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:43.0) Gecko/20100101 Firefox/43.0  
+#EXTINF:0,Sky Sports F1
+http://star7arab-iptv.sytes.net:8000/live/WSS2/support@wsswebhost.com/80.m3u8|User-Agent: 
+Mozilla/5.0 Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:43.0) Gecko/20100101 Firefox/43.0
+#EXTINF:0,Bt Sports ESPN
+http://star7arab-iptv.sytes.net:8000/live/WSS2/support@wsswebhost.com/47.m3u8|User-Agent: 
+Mozilla/5.0 Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:43.0) Gecko/20100101 Firefox/43.0
+#EXTINF:0,Chelsea TV
+http://iptv-volkan.ddns.net:8000/live/Martin/Martin/430.m3u8|User-Agent: Mozilla/5.0 Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:43.0) Gecko/20100101 Firefox/43.0
+#EXTINF:0,Box Nation
+http://star7arab-iptv.sytes.net:8000/live/WSS2/support@wsswebhost.com/44.m3u8|User-Agent: 
+Mozilla/5.0 Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:43.0) Gecko/20100101 Firefox/43.0
+#EXTINF:-1,EuroSport 1
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+#EXTINF:-1,BT Sport Europe
+http://80.243.189.26:8081/miosptvbteu/index.m3u8
+#EXTINF:0,At The Races
+http://star7arab-iptv.sytes.net:8000/live/WSS2/support@wsswebhost.com/83.m3u8|User-Agent: Mozilla/5.0 Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:43.0) Gecko/20100101 Firefox/43.0
+#EXTINF:0,Motosports
+http://motorsport.hopto.org:8081/
+#EXTINF:0,Sport Max
+http://46.249.213.93/iPhone/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr497k.m3u8
+#EXTINF:-1,BEIN SPORT 1
+http://bit.ly/1SrHMnH
+#EXTINF:-1,BEIN SPORT 2
+http://tinyurl.com/gvtle33
+#EXTINF:-1,BEIN SPORT 3
+http://tinyurl.com/jbxyqee
+#EXTINF:-1,BEIN SPORT 4
+http://tinyurl.com/j8xbpwm
+#EXTINF:-1,BEIN SPORT 5
+http://bit.ly/1Rw0xX8
+#EXTINF:-1,BEIN SPORT 6
+http://bit.ly/1PlA08D
+#EXTINF:-1,BEIN SPORT 7
+http://bit.ly/23a2kF2
+#EXTINF:-1,BEIN SPORT 8
+http://bit.ly/1QiaDJN
+#EXTINF:-1,BEIN SPORT 9
+http://bit.ly/1S088vI
+#EXTINF:-1,BEIN SPORT 10
+http://bit.ly/209DZNs
+#EXTINF:-1,BEIN SPORT 11
+http://bit.ly/1JcuwRg
+#EXTINF:-1,BEIN SPORT 12
+http://bit.ly/1OAId9k
+#EXTINF:-1,BEIN SPORT 13
+http://bit.ly/1NgaiRw
+#EXTINF:-1,BEIN SPORT 14
+http://bit.ly/1RPfV16
+#EXTINF:-1,BEIN SPORT 15
+http://bit.ly/1V1JXwm
+
+#EXTINF:0,[COLOR green]*---Sport ENG US---*[/COLOR]
+#EXTINF:-1, NBC GOLF SD
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1, NBC GOLF 720p
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104 
+#EXTINF:-1, NBC GOLF 1080p
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1, NFL Now Live
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
+#EXTINF:-1,FoxSports 2 HD
+http://62.210.248.96:11000/live/knuschit@gmail.com_us/knuschit@gmail.com-us/1025.ts
+#EXTINF:-1,FoxSports1HD
+http://62.210.248.96:11000/live/knuschit@gmail.com_us/knuschit@gmail.com-us/1024.ts
+#EXTINF:-1,ESPN 2
+http://62.210.248.96:11000/live/knuschit@gmail.com_us/knuschit@gmail.com-us/3173.ts
+#EXTINF:-1,ESPN
+http://62.210.248.96:11000/live/knuschit@gmail.com_us/knuschit@gmail.com-us/3172.ts
+#EXTINF:-1,Bein Sports USA HD
+http://62.210.248.96:11000/live/knuschit@gmail.com_us/knuschit@gmail.com-us/189.ts
+#EXTINF:-1,NBC Golf
+http://62.210.248.96:11000/live/knuschit@gmail.com_us/knuschit@gmail.com-us/4224.ts
+#EXTINF:-1,NBA TV*
+http://62.210.248.96:11000/live/knuschit@gmail.com_us/knuschit@gmail.com-us/3453.ts
+#EXTINF:0,Pac12 Arizona
+http://www.xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:0,Pac12 Bay Area
+http://www.xrxs.net/video/live-p12baya-4728.m3u8 
+#EXTINF:0,Pac12 National
+http://www.xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:0,Pac12 Los Angeles
+http://xrxs.net/video/live-p12losa-4728.m3u8 
+#EXTINF:0,Pac12 Mountain
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:0,Pac12 Oregon
+http://xrxs.net/video/live-p12oreg-4728.m3u8 
+#EXTINF:0,Pac12 Washington
+http://xrxs.net/video/live-p12wash-4728.m3u8
+
+#EXTINF:0,[COLOR green]*---Sport DE---*[/COLOR]
+
+#EXTINF:0,Fox Sports 1
+http://185.59.222.34:8000/live/WSS2/support@wsswebhost.com/5.m3u8|User-Agent: Mozilla/5.0 
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:43.0) Gecko/20100101 Firefox/43.0
+#EXTINF:0,Fox Sports 2
+http://185.59.222.34:8000/live/WSS2/support@wsswebhost.com/4.m3u8|User-Agent: Mozilla/5.0 
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:43.0) Gecko/20100101 Firefox/43.0
+#EXTINF:0,Fox Sports 3
+http://185.59.222.34:8000/live/WSS2/support@wsswebhost.com/3.m3u8|User-Agent: Mozilla/5.0 
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:43.0) Gecko/20100101 Firefox/43.0  
+#EXTINF:0,Fox Sports 4
+http://185.59.222.34:8000/live/WSS2/support@wsswebhost.com/2.m3u8|User-Agent: Mozilla/5.0 
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:43.0) Gecko/20100101 Firefox/43.0  
+#EXTINF:0,Fox Sports 5
+http://185.59.222.34:8000/live/WSS2/support@wsswebhost.com/1.m3u8|User-Agent: Mozilla/5.0 
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:43.0) Gecko/20100101 Firefox/43.0
+
+#EXTINF:0,[COLOR green]*---Sport FR---*[/COLOR]
+#EXTINF:0,Eurosport
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
+
+#EXTINF:0,[COLOR green]*---Sport ES---*[/COLOR]
+#EXTINF:-1,ESPN 3 HD
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1  
+#EXTINF:-1,FOX SPORTS HD
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:-1,FOX SPORTS 2 HD
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:-1,PX HD
+http://200.76.77.237/LIVE/H01/CANAL528/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:-1,ESPN HD
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:-1,ESPN 2 HD
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
